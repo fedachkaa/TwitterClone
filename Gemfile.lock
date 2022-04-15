@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/codahale/bcrypt-ruby.git
+  revision: 5bf36393d330947e055af635687b32719a8df668
+  specs:
+    bcrypt (3.1.17)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -218,6 +224,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt!
   bootsnap (>= 1.4.2)
   bootstrap-sass (~> 3.3.6)
   byebug

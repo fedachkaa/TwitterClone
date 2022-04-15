@@ -55,3 +55,5 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.6' 
 gem 'rails-controller-testing'
+#gem 'bcrypt'
+gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'

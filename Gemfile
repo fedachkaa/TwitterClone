@@ -57,3 +57,7 @@ end
 gem 'bootstrap-sass', '~> 3.3.6' 
 gem 'rails-controller-testing'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
+gem 'faker',                '1.4.2'
+gem 'will_paginate', '3.1.8'
+gem 'bootstrap-will_paginate', '1.0.0'
+
